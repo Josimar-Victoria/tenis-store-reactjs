@@ -1,0 +1,8 @@
+.Menu-list li{
+    margin-bottom: 30px;
+    list-style: none;
+
+    display: flex;
+    justify-content: center;
+    margin-right: 40px;
+}
